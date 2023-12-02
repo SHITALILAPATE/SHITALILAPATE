@@ -1,6 +1,6 @@
 # Hello, I'm sheetal 👋
 
-I'm a passionate full-stack web developer currently studying [Your Program/Course]. I love building web applications and exploring new technologies.
+I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEVELOPEMENT]. I love building web applications and exploring new technologies.
 
 ## 🚀 Skills
 - **Languages:** JavaScript (Node.js), HTML5, CSS3
@@ -15,7 +15,7 @@ I'm a passionate full-stack web developer currently studying [Your Program/Cours
    <!-- Add more projects as needed -->
 
 ## 🌱 Currently Learning
-- [New technology or framework you're exploring]
+- [DSA]
 
 ## 📫 Connect with Me
 - LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
@@ -28,7 +28,7 @@ I'm a passionate full-stack web developer currently studying [Your Program/Cours
 ![Your GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
 
 ## 📊 Top Languages
-![Your Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![JAVASCRIPT, NODEJS](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
 
 ## 🤝 Let's Collaborate!
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out!
