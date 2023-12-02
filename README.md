@@ -10,7 +10,7 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
 - **Tools:** VS Code, npm, Yarn
 
 ## 💻 Projects
-1. [Project 1 Name](link-to-repo) - Short description.
+1. [Christmas-Tree-Animation](https://github.com/SHITALILAPATE/Christmas-Tree-Animation) - Short description.
 2. [Project 2 Name](link-to-repo) - Short description.
    <!-- Add more projects as needed -->
 
@@ -18,8 +18,8 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
 - [DSA]
 
 ## 📫 Connect with Me
-- LinkedIn: [Your LinkedIn Profile](link-to-linkedin)
-- Twitter: [@YourTwitterHandle](link-to-twitter)
+- LinkedIn: [https://www.linkedin.com/in/shital-ilpate-805435291/)
+- Instagram: [https://www.instagram.com/is_sheetal._/)
 
 ## 📈 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true&count_private=true&hide=contribs)
