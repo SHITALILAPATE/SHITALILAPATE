@@ -10,7 +10,7 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
 - **Tools:** VS Code, npm, Yarn
 
 ## 💻 Projects
-1. [Christmas-Tree-Animation](https://github.com/SHITALILAPATE/Christmas-Tree-Animation) - Short description.
+1. [Christmas-Tree-Animation](https://shitalilapate.github.io/Christmas-Tree-Animation/) - Short description.
 2. [https://github.com/SHITALILAPATE/to-do-list-](link-to-repo) - Short description.
    <!-- Add more projects as needed -->
 
