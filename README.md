@@ -11,7 +11,7 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
 
 ## 💻 Projects
 1. [https://shitalilapate.github.io/Christmas-Tree-Animation/](https://shitalilapate.github.io/Christmas-Tree-Animation/) - Short description.
-2. [https://github.com/SHITALILAPATE/to-do-list-](link-to-repo) - Short description.
+2. [https://shitalilapate.github.io/To--Do-List/) - Short description.
    <!-- Add more projects as needed -->
 
 ## 🌱 Currently Learning
