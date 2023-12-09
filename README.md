@@ -3,7 +3,7 @@
 I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEVELOPEMENT]. I love building web applications and exploring new technologies.
 
 ## 🚀 Skills
-- **Languages:** JavaScript (Node.js), HTML5, CSS3
+- **Languages:** JavaScript (Node.js), HTML5, CSS
 - **Database:** MongoDB (NoSQL)
 - **Web Technologies:** React, Express.js
 - **Version Control:** Git
