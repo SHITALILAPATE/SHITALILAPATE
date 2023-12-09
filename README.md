@@ -15,14 +15,14 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
    <!-- Add more projects as needed -->
 
 ## 🌱 Currently Learning
-- [DSA]
+- UI/UX
 
 ## 📫 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/shital-ilpate-805435291/)
 - Instagram: [https://www.instagram.com/is_sheetal._/)
 
 ## 📊 Top Languages
-![JAVASCRIPT,react.js])
+ CSS• JAVASCRIPT•  Nodejs •  MongoDB • React • mySQL
 
 ## 🤝 Let's Collaborate!
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out!
