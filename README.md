@@ -22,7 +22,7 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
 - Instagram: [https://www.instagram.com/is_sheetal._/)
 
 ## 📊 Top Languages
-![JAVASCRIPT, NODEJS](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![JAVASCRIPT,react.js])
 
 ## 🤝 Let's Collaborate!
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out!
