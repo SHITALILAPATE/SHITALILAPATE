@@ -15,7 +15,7 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
    <!-- Add more projects as needed -->
 
 ## 🌱 Currently Learning
-- UI/UX
+- DSA
 
 ## 📫 Connect with Me
 - LinkedIn: [https://www.linkedin.com/in/shital-ilpate-805435291/)
