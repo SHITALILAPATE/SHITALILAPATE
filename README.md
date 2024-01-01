@@ -25,6 +25,6 @@ I'm a passionate full-stack web developer currently studying [FULL STACK WEB DEV
  CSS• JAVASCRIPT•  Nodejs •  MongoDB • React • mySQL
 
 ## 🤝 Let's Collaborate!
-If you're interested in collaborating on a project or just want to say hi, feel free to reach out!
+If you're interested in collaborating on a project or just want to say hi, feel free to reach out!....
 
 
