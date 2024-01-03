@@ -1,6 +1,6 @@
 # Shital Ilpate - Full Stack Developer
 
-I'm Shital Ilpate, a self-taught Full Stack Developer based in India. With a passion for technology,I love building web applications and exploring new technologies...
+I'm Shital Ilpate, a self-taught Full Stack Developer based in India.I love building web applications and exploring new technologies...
 
 ● 💬 Ask me about anything; I am happy to help;
 
