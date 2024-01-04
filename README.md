@@ -17,9 +17,9 @@ I'm Shital Ilpate, a self-taught Full Stack Developer based in India.I love buil
 ![Flutter Badge](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![GraphQL Badge](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 
-                                                  <div align="center">
-                                                   <img src="https://github.com/SHITALILAPATE/SHITALILAPATE/assets/130491601/93673ab1-5081-4cce-9528-ebc9c7121e4f" alt="GIF" width="600"/>
-                                                    </div>
+        <div align="center">
+       <img src="https://github.com/SHITALILAPATE/SHITALILAPATE/assets/130491601/93673ab1-5081-4cce-9528-ebc9c7121e4f" alt="GIF" width="600"/>
+        </div>
 
 ### Frontend
 - HTML
