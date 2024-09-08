@@ -53,7 +53,7 @@ I'm Shital Ilpate, a self-taught Full Stack Developer based in India.I love buil
 
 ## Inspirational Dev Wisdom
 
-> "In the world of coding, an invisible error message is the finest victory." - Shital Ilpate
+> "In the world of coding, an invisible error message is the finest victory." - Shital Ilpate ~~~~~
 
 
 ##
