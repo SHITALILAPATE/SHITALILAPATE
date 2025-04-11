@@ -57,16 +57,6 @@ I believe in writing **clean, efficient code** and building **scalable and user-
 
 ---
 
-### ✨ GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SHITALILAPATE&show_icons=true&theme=dracula&count_private=true&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHITALILAPATE&layout=compact&theme=dracula&hide_border=false" height="150" />
-</div>
-
----
-
-### 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SHITALILAPATE/SHITALILAPATE/output/github-snake.svg" alt="Snake animation" />
