@@ -73,16 +73,6 @@ I enjoy learning modern technologies, solving real-world problems, and creating 
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=SHITALILAPATE&show_icons=true&theme=default&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHITALILAPATE&layout=compact&theme=default&hide_border=true" height="170"/>
-</p>
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in collaborating on exciting projects and learning from other developers.
@@ -97,4 +87,4 @@ I'm always interested in collaborating on exciting projects and learning from ot
 <p align="center">
 Thanks for visiting my profile! ⭐
 </p>
----
+
