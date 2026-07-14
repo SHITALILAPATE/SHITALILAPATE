@@ -1,64 +1,100 @@
 <h1 align="center">Hi 👋, I'm Shital Ilpate</h1>
-<h3 align="center">A Self-Taught Full Stack Developer from India </h3>
+
+<h3 align="center">
+Self-Taught Full Stack Developer | Building Modern & Interactive Web Experiences
+</h3>
 
 <p align="center">
-  <a href="https://shitalilpate.hashnode.dev/" target="_blank">📝 Blog</a> • 
-  <a href="mailto:email@shitalilpate.contact.com">📫 Contact</a> • 
-  <a href="https://www.linkedin.com/in/shital-ilpate-0223852a3/" target="_blank">💼 LinkedIn</a>
+  <a href="https://shitalilpate.hashnode.dev/">📝 Blog</a> •
+  <a href="mailto:email@shitalilpate.contact.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/shital-ilpate-0223852a3/">💼 LinkedIn</a> •
+  <a href="https://shitalilpate.dev">🌐 Portfolio</a>
 </p>
 
 ---
 
-### 🚀 About Me
+## 👩‍💻 About Me
 
-I'm **Shital Ilpate**, a passionate web developer who loves building full-stack applications and exploring new tech.  
+I'm **Shital Ilpate**, a self-taught full stack developer from India who enjoys building responsive, interactive, and user-focused web applications.
 
-- 💡 Always open to learning and sharing
-- 📬 Reach me: [email@shitalilpate.contact.com](mailto:email@shitalilpate.contact.com)
-- 🌐 Portfolio: [shitalilpate.dev](https://shitalilpate.dev)
-- ✍️ [My Blog](https://shitalilpate.hashnode.dev/)
+I enjoy learning modern technologies, solving real-world problems, and creating clean user experiences through code.
 
----
-
-### 🛠️ Tech Stack
-
-#### 🔧 Languages & Libraries  
-![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-
-#### 🧑‍🎨 Design Tools  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=flat&logo=canva&logoColor=white)
-
-#### 🔍 Others  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- 🌱 Currently learning **Next.js, TypeScript, Python & AI**
+- 🚀 Building full-stack web applications
+- 💡 Passionate about UI/UX and frontend development
+- 📫 Reach me at **email@shitalilpate.contact.com**
 
 ---
 
-### 🌟 What I’m Working On
+## 🛠 Tech Stack
 
-- 🚀 **Building full-stack web apps** with modern tools and best practices   
-- 💻 **Sharpening my coding skills** by building real-world websites and web apps  
-- 🔍 **Exploring TypeScript & Tailwind CSS** to write clean and scalable code   
+### Frontend
 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
 ---
 
+## 🚀 Currently Working On
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/SHITALILAPATE/SHITALILAPATE/output/github-snake.svg" alt="GitHub Snake" />
-</div>
+- Building modern full-stack web applications
+- Exploring AI and Python development
+- Creating interactive portfolio projects
+- Improving problem-solving and system design skills
 
 ---
 
+## 📌 Featured Projects
 
+- 🚀 Antigravity Portfolio
+- 🐶 PawWear – E-commerce Website
+- 📸 Python Photo Booth App
+- ✋ Hand Gesture Detection using MediaPipe
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=SHITALILAPATE&show_icons=true&theme=default&hide_border=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHITALILAPATE&layout=compact&theme=default&hide_border=true" height="170"/>
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on exciting projects and learning from other developers.
+
+- 🌐 Portfolio: https://shitalilpate.dev
+- 💼 LinkedIn: https://www.linkedin.com/in/shital-ilpate-0223852a3/
+- 📝 Blog: https://shitalilpate.hashnode.dev/
+- 📧 Email: email@shitalilpate.contact.com
+
+---
+
+<p align="center">
+Thanks for visiting my profile! ⭐
+</p>
 ---
